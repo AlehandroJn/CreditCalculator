@@ -1,4 +1,4 @@
-Just for test
+Test
 
 commit test
 
